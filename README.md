@@ -1,1 +1,1 @@
-# suricata-unittest-ci-demo
+# suricata-unittest-ci-demo-lab
